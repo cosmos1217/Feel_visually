@@ -57,30 +57,30 @@
 
 }
 
-  .body{
+.body{
     display: flex;
     justify-content: center;
     padding: 0px 40px;
     align-items: center;
     }
 
-  .box{
+ .box{
     width: 800px;
     max-width: 800px;
-    height: 400px;
+    height: 450px;
 
   }
-  svg {
+
+ svg {
   width: 200px;
   height: 200px;
-}
+  }
 
 .iframe100 {
-  display: block;
+  display: flex;
   border: none;
   height: 100vh;
   width: 100vw;
-  scrolling: no;
 }
 
 </style>
