@@ -8,7 +8,6 @@
     align-items: center;
     padding: 40px 10px 10px;
     gap: 0px;
-    border-top: 1px black;
 
   }
   #grid {
@@ -26,6 +25,8 @@
     min-height: 200;
     gap: 0;
     margin-top: -35Px;
+    margin-bottom: 10Px;
+
   }
 
   #title {
@@ -71,16 +72,6 @@
     }
 
 
- .box{
-    width: 100vw;
-    height: 100vh;
-    object-fit: fill;
-
-    margin-left: 0;
-    padding: 0;
-
-  }
-
  svg {
   width: 200px;
   height: 200px;
@@ -88,18 +79,18 @@
 
 .iframe100 {
   display: flex;
-  border: none;
+  border: solid 1px black ;
   height: 100vh;
   width: 100vw;
 
   margin: 0;
-padding: 0;
+  padding: 0;
 }
 
 
 body {
   margin: 0;
-  padding: 0;
+  padding: 0px;
 }
 
 
