@@ -1,0 +1,99 @@
+<style>
+
+
+  a {
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+  }
+  #header {
+    align-items: center;
+    padding: 40px 10px 10px;
+    gap: 0px;
+
+  }
+  #grid {
+    display: flex;
+    justify-content: center;
+    align-items: top;
+    min-height: fit;
+    gap: 8px;
+  }
+
+  #grid_title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 200;
+    gap: 0;
+    margin-top: -35Px;
+    margin-bottom: 20Px;
+
+  }
+
+  #title {
+    align-items: center;
+    padding: 0px 10px 8px;
+    gap: 0px;
+  }
+
+  #grid2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 147px;
+    max-height: 147px;
+    gap: -40px;
+  }
+
+  #image-container {
+    position: relative;
+    height: 300px;
+    width: 100%;
+    overflow: hidden;
+
+  }
+
+.title {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding:60px 0px 0px;
+  gap: -30px;
+
+}
+
+.body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin: 0;
+    padding: 0;
+
+    }
+
+
+ svg {
+  width: 200px;
+  height: 200px;
+  }
+
+.iframe100 {
+  display: flex;
+  border: solid 0.75px #2C2C2C ;
+  height: 100vh;
+  width: 100vw;
+
+  margin: 0;
+  padding: 0;
+}
+
+
+body {
+  margin: 0;
+  padding: 0px;
+}
+
+
+</style>
